@@ -1,6 +1,6 @@
 import { joom} from "../assets";
 import React from "react";
-import Tilt from "react-tilt";
+import { Tilt } from "react-tilt";
 import { color, motion } from "framer-motion";
 import Button from '@mui/material/Button'; 
 
