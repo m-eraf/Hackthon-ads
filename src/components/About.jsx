@@ -54,6 +54,7 @@ const About = () => {
         ))}
       </div>
     </>
+    // update the header and footer
   );
 };
 
